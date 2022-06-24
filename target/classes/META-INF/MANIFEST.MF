@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: timesheet-devops
+Implementation-Version: 1.0
+Built-By: Adib
+Implementation-Vendor-Id: tn.esprit.spring
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://spring.io/projects/spring-boot/timesheet-d
+ evops
+Created-By: Maven Integration for Eclipse
+
